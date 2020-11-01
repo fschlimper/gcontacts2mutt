@@ -1,4 +1,4 @@
-(ns gcontact-parser.core
+(ns gcontacts2mutt.core
   (:gen-class)
   (:require [clojure.string :as str])
   (:require [clojure.java.io :as io])

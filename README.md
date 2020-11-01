@@ -1,4 +1,4 @@
-# gcontracts2mutt
+# gcontacts2mutt
 
 FIXME: description
 
@@ -10,7 +10,7 @@ Download from http://example.com/FIXME.
 
 FIXME: explanation
 
-    $ java -jar gcontracts2mutt-0.1.0-standalone.jar [args]
+    $ java -jar gcontacts2mutt-0.1.0-standalone.jar [args]
 
 ## Options
 
